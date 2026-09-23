@@ -1,1 +1,1 @@
-# lab-6-learning
+Day 6 Hands-On Lab focuses on security and privacy in aviation through PII-safe prompting. It covers personal information identification, data sensitivity, unsafe and safe prompts, placeholders, data minimisation, and verification. The project highlights protecting passenger data, avoiding unsupported promises, and ensuring human review for responsible AI use in airline operations.
